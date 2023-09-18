@@ -24,9 +24,9 @@ func (o Ope) String() string {
 const (
 	// Delete item represents a delete diff.
 	Delete Ope = -1
-	// Insert item represents an insert diff.
+	// Add item represents an add diff.
 	Add Ope = 1
-	// Keep item represents an equal diff.
+	// Equal item represents an equal diff.
 	Equal Ope = 0
 )
 

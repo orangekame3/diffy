@@ -4,8 +4,9 @@ package main
 
 import (
 	"fmt"
-	"github/orangekame3/diffy"
 	"strings"
+
+	"github.com/orangekame3/diffy"
 
 	"github.com/kylelemons/godebug/diff"
 )

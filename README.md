@@ -1,7 +1,7 @@
 # Diffy
 <br>
 <p align="center">
-<img src="img/diffy.png" alt="Diff Formatter" height="350" width="350"/>
+<img src="img/diffy.png" alt="Diff Formatter" height="auto"/>
 </p>
 
 <p align="center">

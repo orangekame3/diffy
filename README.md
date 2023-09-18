@@ -14,12 +14,12 @@ Diffy
 package main
 
 import (
-	"fmt"
-	"strings"
+    "fmt"
+    "strings"
 
-	"github.com/orangekame3/diffy"
+    "github.com/orangekame3/diffy"
 
-	"github.com/kylelemons/godebug/diff"
+    "github.com/kylelemons/godebug/diff"
 )
 
 func main() {
